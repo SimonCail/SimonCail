@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Je me présente, je m'appelle Simon Caillieret, j'ai 20 ans. Actuellement étudiant en deuxième année de BUT Informatique à l'IUT de Lens, je suis à la recherche d’un stage de 8 semaines minimum, de mi-avril à fin juin.<br><br>J’ai acquis durant ma formation des compétences dans le domaine de la programmation et du développement ainsi qu’une bonne connaissance des logiciels. Mes<br>diverses expériences dans le monde du travail m’ont permis de gagner en rigueur, en autonomie et en faculté d’adaptation. Ces expériences m’ont également permis de renforcer mes compétences relationnelles et de gagner en confiance en moi, des atouts que j’ambitionne de mettre à profit dans un stage formateur et enrichissant.</p>
+<p align="left">Je m'appelle Simon Caillieret, j'ai 20 ans. Actuellement étudiant en deuxième année de BUT Informatique à l'IUT de Lens, je suis à la recherche d’un stage de 8 semaines minimum, de mi-avril à fin juin.<br><br>J’ai acquis durant ma formation des compétences dans le domaine de la programmation et du développement ainsi qu’une bonne connaissance des logiciels. Mes<br>diverses expériences dans le monde du travail m’ont permis de gagner en rigueur, en autonomie et en faculté d’adaptation. Ces expériences m’ont également permis de renforcer mes compétences relationnelles et de gagner en confiance en moi, des atouts que j’ambitionne de mettre à profit dans un stage formateur et enrichissant.</p>
 
 ###
 
